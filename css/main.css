@@ -1,0 +1,25 @@
+fieldset{
+    width: 400px;
+    margin: auto;
+}
+
+fieldset label{
+    display: block;
+}
+
+fieldset input{
+    margin: 5px;
+}
+
+.ok{
+   width: 100px;
+    height: 50px;
+    display: block;
+    margin: 20px auto;
+}
+
+form{
+    width: 500px;
+    background-image: url("https://img.freepik.com/free-vector/beautiful-watercolor-background_23-2148486848.jpg?w=1800&t=st=1682534274~exp=1682534874~hmac=a5470a14493eed462130a01977db4bdf8f25eff95def042935a33bd721870511");
+    background-size: 100%;
+}
